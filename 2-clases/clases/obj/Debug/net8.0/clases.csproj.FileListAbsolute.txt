@@ -1,0 +1,14 @@
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\2-clases\clases\obj\Debug\net8.0\clases.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\2-clases\clases\obj\Debug\net8.0\clases.AssemblyInfoInputs.cache
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\2-clases\clases\obj\Debug\net8.0\clases.AssemblyInfo.cs
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\2-clases\clases\obj\Debug\net8.0\clases.csproj.CoreCompileInputs.cache
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\2-clases\clases\bin\Debug\net8.0\clases.exe
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\2-clases\clases\bin\Debug\net8.0\clases.deps.json
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\2-clases\clases\bin\Debug\net8.0\clases.runtimeconfig.json
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\2-clases\clases\bin\Debug\net8.0\clases.dll
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\2-clases\clases\bin\Debug\net8.0\clases.pdb
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\2-clases\clases\obj\Debug\net8.0\clases.dll
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\2-clases\clases\obj\Debug\net8.0\refint\clases.dll
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\2-clases\clases\obj\Debug\net8.0\clases.pdb
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\2-clases\clases\obj\Debug\net8.0\clases.genruntimeconfig.cache
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\2-clases\clases\obj\Debug\net8.0\ref\clases.dll

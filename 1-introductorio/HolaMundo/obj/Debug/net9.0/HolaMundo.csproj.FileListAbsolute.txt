@@ -1,0 +1,14 @@
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\1-introductorio\HolaMundo\bin\Debug\net9.0\HolaMundo.exe
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\1-introductorio\HolaMundo\bin\Debug\net9.0\HolaMundo.deps.json
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\1-introductorio\HolaMundo\bin\Debug\net9.0\HolaMundo.runtimeconfig.json
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\1-introductorio\HolaMundo\bin\Debug\net9.0\HolaMundo.dll
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\1-introductorio\HolaMundo\bin\Debug\net9.0\HolaMundo.pdb
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\1-introductorio\HolaMundo\obj\Debug\net9.0\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\1-introductorio\HolaMundo\obj\Debug\net9.0\HolaMundo.AssemblyInfoInputs.cache
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\1-introductorio\HolaMundo\obj\Debug\net9.0\HolaMundo.AssemblyInfo.cs
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\1-introductorio\HolaMundo\obj\Debug\net9.0\HolaMundo.csproj.CoreCompileInputs.cache
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\1-introductorio\HolaMundo\obj\Debug\net9.0\HolaMundo.dll
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\1-introductorio\HolaMundo\obj\Debug\net9.0\refint\HolaMundo.dll
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\1-introductorio\HolaMundo\obj\Debug\net9.0\HolaMundo.pdb
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\1-introductorio\HolaMundo\obj\Debug\net9.0\HolaMundo.genruntimeconfig.cache
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\1-introductorio\HolaMundo\obj\Debug\net9.0\ref\HolaMundo.dll

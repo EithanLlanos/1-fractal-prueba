@@ -26,5 +26,4 @@ public class Producto
     public int Stock => stock;
 
     public double Price => price;
-
 }

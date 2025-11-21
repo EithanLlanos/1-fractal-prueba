@@ -12,3 +12,4 @@ E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\2-
 E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\2-clases\clases\obj\Debug\net8.0\clases.pdb
 E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\2-clases\clases\obj\Debug\net8.0\clases.genruntimeconfig.cache
 E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\2-clases\clases\obj\Debug\net8.0\ref\clases.dll
+E:\Users\Eithan\Desktop\Carpeta de Carpetas\Carpetas\Estudios\Fractal\C_sharp\2-clases\clases\obj\Debug\net8.0\clases.sourcelink.json
